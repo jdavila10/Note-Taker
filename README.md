@@ -26,7 +26,8 @@
 
   ## Deployment
   
-  This app is deployed at 
+  This app is deployed [here](https://ancient-sands-36750.herokuapp.com/)
+  
 
 
 
@@ -38,7 +39,8 @@
   
   ## Contact:
 
-  For questions about my README generator please go to my Github page following this link: 
+  For questions about this application please contact me at: 
   - [Github Profile](https://github.com/jdavila10)
+  - j.eche589@gmail.com
   
     
